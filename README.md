@@ -1,4 +1,4 @@
- 🖼️ Image Slide Show
+ 🖼️# Image Slide Show
 
 A simple image slideshow project created using HTML, CSS, and JavaScript.
 
@@ -14,7 +14,7 @@ Technologies Used:
 HTML
 CSS
 JavaScript
-# Big Image on Hover
+- Big Image on Hover
 
 A simple image interaction project where an image becomes larger when the user hovers over it.
 
